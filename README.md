@@ -1,6 +1,6 @@
 # SolarHub
 SolarCheats official script hub
-By using SolarHub, an extension of SolarCheats, you agree to the terms and conditions of our script by injecting or downloading software
+by using SolarHub, an extension of SolarCheats, you agree to the terms and conditions of our script by injecting or downloading software
 Official website https://solarcheats.org
 
 STILL IN BETA/PRODUCTION SCRIPTS ONLY PERMITTED TO ADMIN/TEAM USE
