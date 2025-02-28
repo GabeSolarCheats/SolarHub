@@ -18,7 +18,7 @@ above.
 
 Refunds or chargebacks are not permitted if you chargeback you will be blacklisted from using our services.
 
-WE DO NOT CONDONE CHEATING IN GAMES DO NOT ASK US HOW TO CHEAT OR EXPLOIT.
+WE DO NOT CONDONE CHEATING IN GAMES DO NOT ASK US HOW TO CHEAT OR EXPLOIT. (legal reasons)
 
 
 About me
@@ -43,7 +43,7 @@ IMPORTANT
 
 Terms of Service are subjected to change without warning please check the TOS (we will discord ping)
 
-I want to clarify that you are buying access to our service and not buying the service project could end without getting your money back but we are planning on running the project for as long as possible 
+I want to clarify that you are buying access to our service and not buying the service. The project could end without getting your money back but we are planning on running the project for as long as possible.
 
 
 
