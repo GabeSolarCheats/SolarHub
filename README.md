@@ -5,6 +5,7 @@ By using SolarHub, an extension of SolarCheats, you agree to the terms and condi
 READ OUR TOS BELOW VERY IMPORTANT
 
 TOS
+
 Do not share keys or resell keys if so you will be HWID banned and blacklisted fron our site, script and our discord server
 
 By being a part of our Discord server, you agree to Discord's TOS and our TOS 
@@ -18,6 +19,7 @@ WE DO NOT CONDONE CHEATING IN GAMES DO NOT ASK US HOW TO CHEAT OR EXPLOIT
 
 
 About me
+
 Hi my name is Gabe. I'm experienced in HTML, CSS, Python, JavaScript, Lua, and basic Windows and Linux system commands.
 
 I'm the CEO/Owner at solarcheats.org I'm currently in high school at the making of the services
