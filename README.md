@@ -7,7 +7,7 @@ Official website https://solarcheats.org
 
 TOS
 
-Do not share keys or resell keys if so you will be HWID banned and blacklisted fron our site, script and our discord server.
+Do not share keys or resell keys if so you will be HWID banned and blacklisted fron our site, script and our Discord server.
 
 By being a part of our Discord server, you agree to Discord's TOS and our TOS.
 
