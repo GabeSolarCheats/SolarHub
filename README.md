@@ -37,3 +37,14 @@ Business inquiry
 DO NOT SPAM OUR EMAILS DOING SO WILL RESULT IN PUNISHMENT
 support@solarcheats.org
 
+
+IMPORTANT 
+
+
+Terms of Service are subjected to change without warning please check the TOS (we will discord ping)
+
+I want to clarify that you are buying access to our service and not buying the service project could end without getting your money back but we are planning on running the project for as long as possible 
+
+
+
+
