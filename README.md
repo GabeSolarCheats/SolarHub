@@ -11,7 +11,7 @@ Do not share keys or resell keys if so you will be HWID banned and blacklisted f
 
 By being a part of our Discord server, you agree to Discord's TOS and our TOS.
 
-Do not try to crack out script or reverse engineer if you do so without ethical hacking permissions you will be blacklisted from our services our services were previously stated 
+Do not try to crack our script or reverse engineer if you do so without ethical hacking permissions you will be blacklisted from our services our services were previously stated 
 above.
 
 Refunds or chargebacks are not permitted if you chargeback you will be blacklisted from using our services.
@@ -23,7 +23,7 @@ About me
 
 Hi my name is Gabe. I'm experienced in HTML, CSS, Python, JavaScript, Lua, and basic Windows and Linux system commands.
 
-I'm the CEO/Owner at solarcheats.org I'm currently in high school at the making of the services.
+I'm the CEO/Owner of solarcheats.org. I'm currently in high school at the making of the services.
 
 My hobbies are scripting, riding motorcycles, and anything tech related.
 
