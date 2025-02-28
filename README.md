@@ -1,5 +1,5 @@
 # SolarHub
-SolarCheats official script hub and info
+SolarCheats official script hub
 By using SolarHub, an extension of SolarCheats, you agree to the terms and conditions of our script by injecting or downloading software
 
 READ OUR TOS BELOW VERY IMPORTANT
