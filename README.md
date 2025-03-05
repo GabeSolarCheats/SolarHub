@@ -35,7 +35,7 @@ Thank you for reading, and we are grateful for you choosing us as your Roblox ex
 
 Business inquiry
 DO NOT SPAM OUR EMAILS DOING SO WILL RESULT IN PUNISHMENT
-support@solarcheats.org
+admin@solarcheats.org
 
 
 IMPORTANT 
