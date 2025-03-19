@@ -11,4 +11,4 @@ Script broken?
 Vulnerability spotted?
 
 Contact us at 
-support@solarcheats.org
+admin@solarcheats.org
